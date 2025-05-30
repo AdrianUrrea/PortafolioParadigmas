@@ -2,6 +2,7 @@
 title = 'Practica3'
 date = 2025-05-29
 draft = false
+summary = "Practica 3"
 +++
 
 # Paradigmas de la Programación

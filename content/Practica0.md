@@ -2,6 +2,8 @@
 title = 'Practica0'
 date = 2025-05-29
 draft = false
+weight = 1
+summary = "Practica 0"
 +++
 
 <!-- Esto es un comentario -->

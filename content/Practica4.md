@@ -2,6 +2,7 @@
 title = 'Practica4'
 date = 2025-05-29
 draft = false
+summary = "Practica 4"
 +++
 
 # **Implementación del Paradigma Lógico**

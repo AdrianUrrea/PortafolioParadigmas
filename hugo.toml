@@ -2,31 +2,3 @@ baseURL = 'https://adrianurrea.github.io/PortafolioParadigmas/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
-
-[menu]
-
-  [[menu.main]]
-  name = "Practica0"
-  url = "/posts/Practica0/"
-  weight = 1
-
-  [[menu.main]]
-  name = "Practica1"
-  url = "/posts/Practica1/"
-  weight = 2
-
-  [[menu.main]]
-  name = "Practica2"
-  url = "/posts/Practica2/"
-  weight = 3
-
-  [[menu.main]]
-  name = "Practica3"
-  url = "/posts/Practica3/"
-  weight = 4
-
-  [[menu.main]]
-  name = "Practica4"
-  url = "/posts/Practica4/"
-  weight = 5
-
