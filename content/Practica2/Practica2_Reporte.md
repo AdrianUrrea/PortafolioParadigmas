@@ -1,7 +1,7 @@
 +++
 title = 'Practica2'
 date = 2025-05-29
-draft = true
+draft = false
 +++
 
 ## **Introducción**
