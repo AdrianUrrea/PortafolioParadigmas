@@ -1,4 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://adrianurrea.github.io/PortafolioParadigmas/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
+
+[params]
+    showSummary = false
